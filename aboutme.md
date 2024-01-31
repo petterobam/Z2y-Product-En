@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 关于我
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: What can I do for you?
 ---
 
 Craft Your World from Scratch.

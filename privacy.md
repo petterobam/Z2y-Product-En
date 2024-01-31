@@ -1,3 +1,9 @@
+---
+layout: none
+title: 
+subtitle: 
+---
+
 # App Privacy Policy
 
 Effective Date: 2024-01-31
