@@ -55,9 +55,9 @@ round-avatar: false
 social-network-links:
   email: "petterobam@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: petterobam
-  github: petterobam
-  twitter: petterobam
+  facebook: profile.php?id=61550836783381
+  github: zero2you4tech
+  twitter: petter449047746
   # patreon: petterobam
   youtube: channel/UCEEj2hJBXo2IPwPA2F76TZA
 #  medium: yourname
