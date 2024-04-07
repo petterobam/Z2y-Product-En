@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Z2y Editor&Manager
+title: Z2Y Editor&Manager
 
 # Your name to show in the footer
-author: zero2you
+author: "Zero2You Studio"
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,7 +21,7 @@ author: zero2you
 
 navbar-links:
   Download: "https://www.zero2you.tech"
-  About Me: "aboutme"
+  About: "aboutme"
   Resource:
     - Issue: "https://issue-en.zero2you.tech"
     - Blog: "https://blog-en.zero2you.tech"
@@ -53,13 +53,13 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "petterobam@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: petterobam
   github: petterobam
   twitter: petterobam
-  patreon: petterobam
-  youtube: c/petterobam
+  # patreon: petterobam
+  youtube: channel/UCEEj2hJBXo2IPwPA2F76TZA
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: petterobam
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "www.zero2you.tech"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

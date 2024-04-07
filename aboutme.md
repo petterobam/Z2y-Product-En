@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-subtitle: What can I do for you?
+title: What can I do for you?
+subtitle: Product Concept and Use Cases & Iteration Record
 ---
 
 From scratch, build everything yourself.
