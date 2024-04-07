@@ -20,6 +20,7 @@ author: zero2you
 ###############################################
 
 navbar-links:
+  Download: "https://www.zero2you.tech"
   About Me: "aboutme"
   Resource:
     - Issue: "https://issue-en.zero2you.tech"
