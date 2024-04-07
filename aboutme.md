@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What can I do for you?
+title: What can I do?
 subtitle: Product Concept and Use Cases & Iteration Record
 ---
 
