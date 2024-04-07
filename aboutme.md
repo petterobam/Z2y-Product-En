@@ -15,8 +15,7 @@ This software provides the following basic functions:
 4. Comprehensive online surfing experience, including integrated navigation, reading management, downloads, and various information reading capabilities;
 5. Other daily office and leisure tools.
 
-Software philosophy:
-Everything is a file and can be centrally read and managed in groups.
+Software philosophy: **Everything is a file and can be centrally read and managed in groups.**
 
 Keywords: Reader, knowledge base, personal knowledge system construction, deep integration with Github, integrated reading and writing process management, work-life balance, empowering editor, AI integration.
 
